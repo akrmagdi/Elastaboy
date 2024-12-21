@@ -1,4 +1,5 @@
-{ "backup": [
-    {"Backup-elastaboy": "9CO2-Y147-49Z9-12-hours", "status": "active"}
+{
+  "backup": [
+    { "Backup-elastaboy": "9CO2-Y147-49Z9-12-hours", "status": "active" }
   ]
 }
